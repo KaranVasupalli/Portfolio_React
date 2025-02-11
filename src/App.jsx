@@ -15,6 +15,9 @@ function App() {
           <li>Project</li>
         </ul>
       </nav>
+      <div>
+        <img src="" alt="" />
+      </div>
     </>
   )
 }
